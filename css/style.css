@@ -1,0 +1,398 @@
+@import url('https://fonts.googleapis.com/css?family=Pirata+One|Roboto:700i,|UnifrakturMaguntia');
+@import url('https://fonts.googleapis.com/css?family=Sanchez');
+
+/*LINK STYLE*/
+
+a{
+    color: currentColor;
+    text-decoration: none;
+    
+}
+
+a:hover{
+    color: #ff2b00;
+    text-decoration: none;
+}
+
+/*CONTAINERS*/
+
+.container{
+    width: 1366px;
+    height: 5080px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: white;
+ 
+}
+
+.container2{
+    width: 1366px;
+    height: 1373px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.container3{
+    height: 2530px;
+    width: 1366px;
+    margin-left: auto;
+    margin-right: auto;   
+}
+
+.container4{
+    height: 3300px;
+    width: 1366px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.container5{
+    width: 1366px;
+    height: 3100px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.container6{
+    width: 1366px;
+    height: 3300px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.head{
+    width: 1366px;
+    height: 990px;
+    float: left;
+    background-color: #403838;
+    background-image: url(hero.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    
+}
+
+.hspace{
+    height: 150px;
+    font-family: 'Roboto', sans-serif;
+    color: #ff2b00;
+    font-size: 70pt;
+    float: left;
+    margin-left: 221px;
+}
+
+.header{
+    width: 1366px;
+    height: 150px;
+    float: left;
+}
+
+.links{
+    color: #ff2b00;
+    margin-top: 60px;
+    text-align: center;
+    font-family: 'Sanchez', serif;
+    font-size: 12pt;
+    letter-spacing: 10px;
+    
+}
+
+.heading{
+    font-family: 'Pirata One', cursive;
+    font-size: 100px;
+    color: #ff2b00;
+    letter-spacing: 30px;
+    margin-top: 300px;
+    text-align: center;
+    
+}
+
+.title{
+    font-family: 'Roboto', sans-serif;
+    color: #ff2b00;
+    font-size: 70pt;
+    margin-top: 0px;
+    margin-left: 251px;
+    
+}
+
+.titlebox{
+    width: 1366px;
+    height: 150px;
+    float: left;
+    
+}
+
+.openingp{
+    height: 175px;
+    width: 1366px;
+    float: left;
+}
+
+
+
+.quote{
+    width: 1366px;
+    height: 990px;
+    float: left;
+}
+
+.big{
+    color: #ff2b00;
+    font-size: 80pt;
+    margin-left: 360px;
+    margin-right: 360px;
+    margin-top: 10px;
+    font-family: 'Roboto', sans-serif;
+    line-height: 70pt;
+}
+
+.small{
+    font-size: 10pt;
+    font-family: 'Sanchez', serif;
+    color: #ff2b00;
+    margin-left: 250px;
+    margin-top: 200px;
+    margin-right: 910px;
+    line-height: 12pt;
+}
+
+.different{
+    font-family: 'UnifrakturMaguntia', cursive;
+    font-size: 90pt;
+    margin-left: 500px;
+    color: black;
+}
+
+.arrow{
+    width: 1366px;
+    height:410px;
+    float: left;
+}
+
+.st{
+    font-family: 'Roboto', sans-serif;
+    color: #ff2b00;
+    font-size: 14pt;
+}
+
+.vl{
+    border-left: 2px solid #ff2b00;
+    height: 150px;
+    margin-left: 683px;
+    margin-top: 15px;
+    
+}
+
+.nav{
+    width: 1366px;
+    height: 580px;
+    float: left;
+    
+}
+
+.box{
+    width: 900px;
+    height: 120px;
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+       
+}
+
+.aboutbox{
+    width: 1366px;
+    height: 316px;
+    float: left;
+}
+
+.lbox{
+    width: 646px;
+    height: 120px;
+    background-color: #ff2b00;
+    float: right;
+}
+
+.bigt{
+    font-family: 'Roboto', sans-serif;
+    font-size: 30pt;
+    margin-right: 10px;
+    float: right;
+    
+}
+
+.smallt{
+    font-family: 'Sanchez', serif;
+    color: #ff2b00;
+    font-size: 10pt;
+    float: right;
+    margin-right: 10px;
+}
+
+.footer{
+    height: 570px;
+    width: 1366px;
+    background-color: #403838;
+    float: left;
+}
+
+.contact{
+    font-family: 'Sanchez', serif;
+    font-size: 12pt;
+    color: white;
+}
+
+.fbox{
+    margin-left: 360px;
+    margin-top: 225px;
+    margin-right: 800px;
+}
+
+.back{
+    font-family: 'Roboto', sans-serif;
+    letter-spacing: 5px;
+    font-size: 18pt;
+}
+
+/*IMAGE BOXES*/
+
+.timage1{
+    width: 1366px;
+    height: 710px;
+    float: left;
+}
+
+.timage2{
+    width: 1366px;
+    height: 480px;
+    float: left
+}
+
+.timage3{
+    width: 1366px;
+    height: 470px;
+    float: left;
+}
+
+.iimage1{
+    width: 1366px;
+    height: 1225px;
+    float: left;
+}
+
+.iimage2{
+    width: 1366px;
+    height: 1300px;
+    float: left;
+}
+
+.ttimage1{
+    width: 1366px;
+    height: 1175px;
+    float: left;
+}
+
+.ttimage2{
+    width: 1366px;
+    height: 1150px;
+    float: left;
+}
+
+.cimage1{
+    width: 1366px;
+    height: 560px;
+    float: left;
+}
+
+.cimage2{
+    width: 1366px;
+    height: 1465px;
+    float: left;
+}
+
+.cimage3{
+    width: 1366px;
+    height: 900px;
+    float: left;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.portrait{
+    width: 866px;
+    height: 316px;
+    margin-left: 251px;
+}
+
+.aboutimage{
+    width: 316px;
+    height: 316px;
+    float: left;
+}
+
+.abc{
+    float: left;
+    overflow: visible;
+}
+
+/*TEXT STYLE*/
+
+.ttext1{
+    width: 1366px;
+    height: 220px;
+    float: left
+}
+
+.ttext2{
+    width: 1366px;
+    height: 173px;
+    float: left;
+}
+
+.t1{
+    font-family: 'Sanchez', serif;
+    font-size: 12pt;
+    color: #ff2b00;
+    margin-left: 251px;
+    margin-right: 691px;
+    margin-top: 0px;
+}
+
+.abouttext{
+    width: 426px;
+    height: 316px;
+    float: right;
+}
+
+.end{
+    width: 1366px;
+    height: 200px;
+    float: left;
+}
+
+.divider{
+    width: 1366px;
+    height: 100px;
+    float: left;
+}
+
+.divider2{
+    width: 1366px;
+    height: 235px;
+    float: left;
+}
+
+.bigdivider{
+    width: 1366px;
+    height: 400px;
+    float: left;
+}
+
+.mimage{
+    width: 1366px;
+    height: 740px;
+    float: left;
+}
